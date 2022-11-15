@@ -48,3 +48,7 @@ gradleBuild
 Podfile.lock
 Pods
 xcuserdata
+
+#custom 
+results/
+koala/
